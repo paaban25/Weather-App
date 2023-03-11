@@ -14,3 +14,5 @@ Then by pressing Enter, it shows the current temperature and weather of that cit
 ![showing_weather](https://user-images.githubusercontent.com/122373317/224469517-a32d966a-0ca4-464e-8c69-a2a900da46fe.png)
 
 If the city name is invalid then it show give an error message "City Not Found".
+
+![error_message](https://user-images.githubusercontent.com/122373317/224469604-ecc3ae9d-f2b0-445e-835e-0130fb344052.png)
