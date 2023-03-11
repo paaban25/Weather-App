@@ -11,3 +11,6 @@ Weather of any city can be known by searching the city name in the search bar.
 
 Then by pressing Enter, it shows the current temperature and weather of that city.
 
+![showing_weather](https://user-images.githubusercontent.com/122373317/224469517-a32d966a-0ca4-464e-8c69-a2a900da46fe.png)
+
+If the city name is invalid then it show give an error message "City Not Found".
